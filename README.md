@@ -1,5 +1,8 @@
 https://codingdojo.org/kata/FizzBuzz/
 
+# Description 
+
+Clone this project, read the FizzBuzz kata
 
 # Some hints
 
@@ -11,3 +14,4 @@ pip install pytest pytest-watch
 ```
 ptw
 ```
+
